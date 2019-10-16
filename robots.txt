@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://weebeiwith.hollybeachviewcc.com/sitemap.xml
